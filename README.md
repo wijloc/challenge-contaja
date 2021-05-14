@@ -3,7 +3,7 @@
 O projeto proposto nesse desafio tem como objetivo avaliar os candidatos a Full Stack Web Developer na Contajá.
 
 ## Sobre nós
-A Contajá oferece uma solução simplificada, eficiente e ágil, resolvendo problemas complexos para uma geração acostumada com tecnologia.
+A [Contajá](https://contaja.com.br/) oferece uma solução simplificada, eficiente e ágil, resolvendo problemas complexos para uma geração acostumada com tecnologia.
 
 ## Espeficiações Técnicas
 
