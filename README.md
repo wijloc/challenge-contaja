@@ -2,6 +2,17 @@
 
 O projeto proposto nesse desafio tem como objetivo avaliar os candidatos a Full Stack Web Developer na Contajá.
 
+## Indice
+  * [Sobre nós](#sobre-nós)
+  * [Espeficiações Técnicas](#espeficiações-técnicas)
+  * [A aplicação](#a-aplicação)
+    * [Premissas](#premissas)
+    * [Interfaces](#interfaces)
+    * [Validações](#validações)
+  * [Critérios de Avaliação](#critérios-de-avaliação)
+  * [Considerações finais](#considerações-finais)
+---
+
 ## Sobre nós
 A [Contajá](https://contaja.com.br/) oferece uma solução simplificada, eficiente e ágil, resolvendo problemas complexos para uma geração acostumada com tecnologia.
 
